@@ -1,0 +1,9 @@
+sample,site_type,specialties,sampling_point
+CP1,hospital,"Cardiology, Urology",manhole
+CP3,hospital,"Oncology, Haematology",manhole
+CP4,hospital,Acute Receiving Unit,manhole in plant room beneath the hospital
+CP5,hospital,Neuroscience,manhole
+CP6,hospital,"Intensive Care, Surgery, Medicine",manhole
+CP7,hospital,"Infectious Diseases, Surgery, Medicine",manhole
+CP8,hospital,"Respiratory, Medicine for the Elderly, Urology, Surgical High Dependency",manhole
+Seafield,community,Community sewage works (municipal influent),WWTP influent
